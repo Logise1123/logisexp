@@ -3,5 +3,10 @@
     "url":"https://api.codetabs.com/v1/proxy/?quest=https://html-classic.itch.zone/html/13658096/index.html",
     "name":"Firedodo3D",
     "description":"Firedodo but 3D"
+  },
+  {
+    "url":"https://api.codetabs.com/v1/proxy/?quest=https://logise.neocities.org/freesnake",
+    "name":"Snake",
+    "description":"Normal Snake Game"
   }
 ]
