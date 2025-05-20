@@ -8,5 +8,10 @@
     "url":"https://api.codetabs.com/v1/proxy/?quest=https://logise.neocities.org/freesnake",
     "name":"Snake",
     "description":"Normal Snake Game"
+  },
+  {
+    "url":"https://api.codetabs.com/v1/proxy/?quest=https://logise.neocities.org/chatgptxp",
+    "name":"ChatGPT",
+    "description":"ChatGPT integration for LogiseXP"
   }
 ]
